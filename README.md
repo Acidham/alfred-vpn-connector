@@ -4,7 +4,7 @@ Connects/ Disconnects to available VPN Networks (System Preferences → Network)
 
 ## Download
 
-https://github.com/Acidham/alfred-vpn-connector/releases/latest
+[Latest Release](https://github.com/Acidham/alfred-vpn-connector/releases/latest)
 
 ## Usage
 
@@ -13,3 +13,4 @@ https://github.com/Acidham/alfred-vpn-connector/releases/latest
 ## Requirements
 
 * Python 3
+
